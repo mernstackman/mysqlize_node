@@ -1,0 +1,25 @@
+{
+  "name": "mysqlize_node",
+  "version": "1.0.0",
+  "description": "MySQL data manipulation (CRUD) with Sequelize, NodeJs and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mernstackman/mysqlize_node.git"
+  },
+  "keywords": [
+    "mysql",
+    "nodejs",
+    "express",
+    "sequelize"
+  ],
+  "author": "Ari Susanto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mernstackman/mysqlize_node/issues"
+  },
+  "homepage": "https://github.com/mernstackman/mysqlize_node#readme"
+}
